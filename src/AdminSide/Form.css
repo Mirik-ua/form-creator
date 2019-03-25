@@ -1,0 +1,8 @@
+.newBlock{
+  margin-top: 30px;
+}
+.send{
+  position: fixed;
+  bottom: 50px;
+  margin-left: -50px;
+}

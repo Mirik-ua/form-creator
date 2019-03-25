@@ -1,0 +1,8 @@
+.start{
+  position: absolute;
+  top:50%;
+  width: 180px;
+  font-size: 18px;
+  border-radius: 20px;
+  right: 45%;
+}

@@ -1,0 +1,26 @@
+.createForm{
+  width: 120%;
+  margin-left: -10%;
+  margin-top: 20px;
+  background: white;
+  border-radius: 10px;
+  border: 3px solid lightgrey;
+  padding: 20px;
+}
+.dropdowm{
+  margin-left: 72%;
+}
+.AddElement{
+  border: none ;
+  border-radius: 50%;
+}
+.fa-trash{
+  cursor: pointer;
+  padding-left: 5px;
+  transform: scale(1.2);
+}
+.fa-trash:hover{
+  transition: .5s;
+  color: blue;
+  transform: scale(1.3);
+}
